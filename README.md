@@ -41,9 +41,6 @@
 <a href="https://instagram.com/robsonch_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Robson Rychard-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-  <a href="https://https://wa.me//+5583998662001" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
     
 </p>
 
