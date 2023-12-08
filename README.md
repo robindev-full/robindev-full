@@ -1,14 +1,15 @@
 
+![tumblr_5378b15545e9f678c276c71d65c2332d_62af995e_1280](https://github.com/robindev-full/robindev-full/assets/153201552/a2f4d01b-d21c-406d-9531-7c32ffc1ce14)
 
+<h1 align="center">Hello World 👋, I'm Robson Rychard </h1>
 
-<h1 align="left"> Hi there 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Robson Rychard</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robindev-full&color=blue" alt="Profile views" /> </p>
-
-- 🔥passionate about technology
-
-- 🔭 I’m currently  estudying
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robindev-full&color=blue" alt="Profile views" /> </p>
+<ul align="center"> 
+  -🌱 I’m currently studying Web Development<br><br>
+  - 💜 I’m passionate about technology<br><br>
+  - 💻 I seek to learn more and more about
+</ul>
+ 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -35,12 +36,13 @@
 ## Contact
 
 <p align="left" style="background:yellow">
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/robson-rychard-08a784271/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Robson Rychard-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/robsonch_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Robson Rychard-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-    
+
 </p>
 
