@@ -37,7 +37,7 @@
 
 <p align="left" style="background:yellow">
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/robson-rychard-08a784271/" target="_blank">
+<a href="https://www.linkedin.com/in/robindev-full/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Robson Rychard-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/robsonch_" target="_blank">
